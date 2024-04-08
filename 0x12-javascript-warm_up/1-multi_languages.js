@@ -5,5 +5,5 @@ const secondLine = 'Python is cool';
 const thirdLine = 'Javascript is amazing';
 console.log(firstLine);
 console.log(secondLine);
-consle.log(thirdLine);
+console.log(thirdLine);
 
